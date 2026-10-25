@@ -1,3 +1,31 @@
+## Nintendo Switch build
+
+This repository hosts the **Nintendo Switch** homebrew release of I Wanna Be The Guy: Remastered Tribute Edition.
+
+**Download:** [IWBTGR-TributeEdition-Switch.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-switch/releases/download/v1.6.6.6/IWBTGR-TributeEdition-Switch.zip) and, for emulators or title installers,
+[IWBTGR-TributeEdition-Switch-01005666A1B70000.nsp](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-switch/releases/download/v1.6.6.6/IWBTGR-TributeEdition-Switch-01005666A1B70000.nsp) ([latest release](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-switch/releases/latest))
+
+**Install:** on a Switch running custom firmware, unzip and copy the `switch` folder to the root of the SD card
+(you get `switch/iwbtgrt/iwbtgrt.nro`), then launch it from the Homebrew Menu. Title-override mode (hold R while starting
+a game) is recommended so the game gets the full memory; applet mode (Album) also works.
+Saves go to `sdmc:/switch/iwbtgrt/save`. The NSP (title ID `01005666A1B70000`) is for emulators or installing to NAND.
+
+| Switch | Action |
+| --- | --- |
+| D-pad / left stick | Move |
+| B | Jump |
+| Y | Shoot |
+| X | Restart |
+| + | Pause |
+| R | Skip |
+| A | Back |
+
+Controls can be remapped in *Options*. Joy-Con, Pro Controller and handheld mode work.
+
+**Other platforms:** [PS5](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition) | [Windows](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-windows) | [Linux](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-linux) | [Android](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-android) | [itch.io](https://shmshp.itch.io/iwbtgrt)
+
+---
+
 # I Wanna Be The Guy: Remastered Tribute Edition
 
 <img src="sce_sys/icon0.png" width="128" align="right">
